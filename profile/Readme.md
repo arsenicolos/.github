@@ -13,4 +13,4 @@
 - [en.canadapass.org](https://en.canadapass.org)
 - [wiedehopf.ca](https://wiedehopf.ca)
 - [manaco.ca](https://manaco.ca)
-- - [baranmusicacademy.ca](https://baranmusicacademy.ca)
+- [baranmusicacademy.ca](https://baranmusicacademy.ca)
