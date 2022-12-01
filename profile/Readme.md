@@ -1,4 +1,5 @@
-## Arsenicolos company is currently a one-man business, providing its clients with modern and creative web solutions:
+### Arsenicolos company is currently a one-man business
+#### I offer my clients modern and creative web solutions:
 - 🎨 Website Design
 - 👨‍💻 Development
 - 📣 Marketing and brand growth
