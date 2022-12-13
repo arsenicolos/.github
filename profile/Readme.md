@@ -1,4 +1,4 @@
-### Arsenicolos company is currently a one-man business
+### Arsenicolos company is currently a one-man business operated by [@Amir](https://github.com/amir-the6th)
 #### I offer my clients modern and creative web solutions:
 - 🎨 Website Design
 - 👨‍💻 Development
